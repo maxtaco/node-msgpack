@@ -1,5 +1,5 @@
 {
-	"name": "msgpack3",
+	"name": "msgpack4",
 	"description": "A space-efficient object serialization library for node.js",
 	"version": "0.1.9",
 	"homepage": "https://github.com/pgriess/node-msgpack",
